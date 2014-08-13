@@ -1,0 +1,23 @@
+{
+	"PluginFileVersion" : 3,
+
+	"FriendlyName" : "Load Texture from Disk Plugin",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "n00854180t",
+	"CreatedByURL" : "https://dungeonsurvival.wordpress.com",
+	"EngineVersion" : 1579795,
+	"Description" : "Load Texture2D from disk.",
+	"Category" : "Image",
+	
+	"Modules" :
+	[		
+		{
+			"Name" : "TextureFromDisk",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		},
+
+		
+	]
+}
